@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/scramble.iml" filepath="$PROJECT_DIR$/scramble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sramble.iml" filepath="$PROJECT_DIR$/sramble.iml" />
+    </modules>
+  </component>
+</project>
